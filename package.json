@@ -21,7 +21,7 @@
     "test": "vitest run --config ../../vitest.config.ts"
   },
   "dependencies": {
-    "@zhin.js/logger": "^0.1.52"
+    "@zhin.js/logger": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^24.3.0",
